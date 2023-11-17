@@ -1,2 +1,3 @@
 Oi, meu nome é rachel
 Estou apredendo usar git
+espero poder aprender cada vez mais
